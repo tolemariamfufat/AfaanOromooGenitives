@@ -76,6 +76,19 @@ can be interpreted as a house that a teacher bought, built, rented and so on. So
 a grammatical distinction between inalienable and alienable posssesions (Gebregziabher, 2012: 161); while others like Afaan Oromoo
 do not make a grammatical distiction between the two. 
 
+Tigrinya (Gebregziabher, 2012:162):
+
+(3) a.  nay joni gəәza
+        NAY John house
+        ‘John’s house’
+
+    b.  ʢarki joni
+        friend John
+        ‘John’s friend’
+
+Tigrinya makes a distinction between IAP and ALP as shown in (3a) is IAP while (3b) is ALP; the two
+types of possessions are encoded via two independent syntactic structures in this languages (Gebregziabher, 2012: 162).
+
 1. Possessive
 Possessive genitive can be expressed either morphologically or syntactically. For example, 
 1a. mana Tolasaa
