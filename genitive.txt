@@ -32,17 +32,54 @@ Title: Afaan Orooo Genitive Constructions
  3.2. Metaphorical Descriptive Genitives
  3.3. Generic Descriptive Genitives
  
-In this paper, I describe Afaan Oromoo Genitive Construction. In Afaan Oromoo, genitive constructions are marked by lengthening a final vowel of a noun. 
-A noun that got its vowel long is interpreted as the possessor a noun that precedes it. The interpretation of Afaan Oromoo genitive construction where 
+ 1. Introducton
+
+1.1. Definition
+
+Genitive construction is a grammatical structure that shows a relationship between two nouns as possessor and possessee. Genitive construction is, in many cases, used to show possession. 
+For instance, (1) shows possession:
+
+1.  gurra   Boontuu
+    ear     Boontuu
+    'Boontu's ear'
+
+In (1) the noun 'gurra' is possessee while 'Boontuu' is possessor. There are two types of genitive possessions: alienable and inalienable possesions. Alienable possesions
+do not have fixed relationship between the possessor and the possessee while inalienalbe possessions have fixed relationships between the possessor and the possessee. 
+
+Genitive construction is often referred as possesion construction. Because of this, genitive and possesion words are used interchangeably. But, genitive construction is not always about possession. For instance, (2) doesn't show possession:
+
+2.  mana    murtii
+    house   gudge
+    'court/lit.gudge's house'
+
+(2) doesn't show possesion; it is shows a type of building where a specific duity is undertaken. 
+
+In this paper, genitive construction refers possession and description aspects of this grammatical structure.  
+
+1.2. Statement of the problem
+
+In Afaan Oromoo, genitive constructions are marked by lengthening a final vowel of a noun. 
+A noun that got its vowel long is interpreted as the possessor of a noun that precedes it. The interpretation of Afaan Oromoo genitive construction where 
 two nouns are involved is straightforward; but, if more than two nouns are involved ambiguities arise. This means that if a genitive construction is 
 formed by three nouns, the second noun can be interpreted either as possessor (concerning the preceding noun) or as the possessed noun (concerning the 
-following noun). I hypothesize that a genitive construction that involves more than two nouns is a borrowed instance that lacks an established phrasal 
-pattern. These ambiguities are the source of public arguments. In the first part of this paper, I shall discuss problem areas of the topic by citing 
-examples from social media. Moreover, I shall discuss more complex examples of Afaan Oromoo genitive constructions by citing sample MA thesis titles. 
-In the second part, I shall discuss literature reviews on Afaan Oromoo genitive construction. The third part proposes solutions and concludes the paper. 
+following noun). These ambiguities are the source of public arguments. 
 
-There are  5 types of genitive construction. These are possessive, subjective, source, objective and descritptive 
-(https://www.eltconcourse.com/training/inservice/lexicogrammar/genitive.html). 
+1.3. Objectives of the paper
+
+This paper has two objectives:
+
+(a) To describe possessive genives of Afaan Oromoo;
+(b) To describe descriptive gentives of Afaan Oromoo;
+
+1.3. Research framework
+
+My description of Afaan Oromoo possessive genitive and descriptive genitive is based on Rosenbach, A. (2006), Gebregziabher, (2012), Chandra, P., & Kumar, R. (2012) and others.
+
+#Chandra, P., & Kumar, R. (2012). Alienable-inalienable Possession Distinctions: From Syntax to Semantics. Indian Linguistics, 73(1-4), 35.
+
+
+
+2. Possessive Genitives
 
 
 Gebregziabher, K. (2012). The alienable-inalienable asymmetry: Evidence from Tigrinya. 
@@ -167,7 +204,11 @@ syntactically as shown below:
 10a. Galgaloon boqqoloo cabse
 10b. Cabsaa boqqolloo
 
-5. The Descriptive genitive
+
+
+3. The Descriptive genitive
+
+
 
 Rosenbach, A. (2006). Descriptive genitives in English: a case study on constructional gradience. English Language & Linguistics, 10(1), 77-118.
  (https://www.cambridge.org/core/journals/english-language-and-linguistics/article/descriptive-genitives-in-english-a-case-study-on-constructional-gradience/7B0AD52F3E002B99300A2EE9E805577B)
