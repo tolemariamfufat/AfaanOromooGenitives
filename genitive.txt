@@ -89,6 +89,28 @@ Tigrinya (Gebregziabher, 2012:162):
 Tigrinya makes a distinction between IAP and ALP as shown in (3a) is IAP while (3b) is ALP; the two
 types of possessions are encoded via two independent syntactic structures in this languages (Gebregziabher, 2012: 162).
 
+
+(4) a.  mana    Galgaloo
+        house   Galgaloo
+        'Galgaloo's house'
+
+(4) b.  mucaa   Galgaloo
+        child    Galgaloo
+        'Galgaloo's child'
+
+As shown in (4a) and (4b), Afaan Oromoo doesn't differentiate between IAP and ALP morphologically; both are expressed in the same way. 
+
+In Afaan Oromoo both IAP and ALP can be expressed syntactically in the same way as shown below:
+
+(5) a.  Man-ni      kun     kan     Galgaloo    ti
+        house-NOM   this    POSS    Galgaloo    BE
+        'This house is Galgaloo's'
+
+(5) b.  mucaa-n      kun     kan     Galgaloo    ti
+        child-NOM    this    POSS    Galgaloo    BE
+        'This child is Galgaloo's'
+
+
 1. Possessive
 Possessive genitive can be expressed either morphologically or syntactically. For example, 
 1a. mana Tolasaa
@@ -433,6 +455,8 @@ Like metaphorical genitives, generic genitives behave structurally like determin
 descriptive genitives (with respect to their nonspecific dependent). Like metaphorical genitives, generic genitives are
 as productive as determiner genitives, as every individualized referent can be conceived of as a representaitve of its kind.
 (p,99). 
+
+
 
 
 As shown in the above examples (11) describes second degree, (12)  grade and (13) position. 
