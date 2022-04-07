@@ -36,21 +36,33 @@ Title: Afaan Orooo Genitive Constructions
 
 1.1. Definition
 
-Genitive construction is a grammatical structure that shows a relationship between two nouns as possessor and possessee. Genitive construction is, in many cases, used to show possession. 
-For instance, (1) shows possession:
+Genitive construction is a grammatical structure that shows a relationship between two nouns such that one noun is a possessor and the other one a possessee. Genitive construction is, 
+in many cases, used to show possession. For instance, (1) shows possession:
 
 1.  gurra   Boontuu
     ear     Boontuu
     'Boontu's ear'
 
-In (1) the noun 'gurra' is possessee while 'Boontuu' is possessor. There are two types of genitive possessions: alienable and inalienable possesions. Alienable possesions
-do not have fixed relationship between the possessor and the possessee while inalienalbe possessions have fixed relationships between the possessor and the possessee. 
+In (1) the noun 'gurra' is possessee while 'Boontuu' is possessor. 
 
-Genitive construction is often referred as possesion construction. Because of this, genitive and possesion words are used interchangeably. But, genitive construction is not always about possession. For instance, (2) doesn't show possession:
+In terms of word order, in Afaan Oromoo, a possessee precedes a possessor as shown in (1); gurra 'ear' is a possessee while Boontuu is a possessor. A word final vowel of the possessor noun must be long to indicate genitive construction. If the final vowel of the absolute form a noun is short, it becomes long in the genitive construction. For instance, the word mana 'house' has short final vowel in its absolute form; in genitive construction the vowel become long as shown below:
+
+2.  dhagaa  manaa
+    stone   house
+    'a stone for house building'/lit. 'house's stone'
+
+But, if the absolute form of a noun has long final vowel, the same form is used in genitive construction. For instance, dhagaa 'stone' has word final long vowel in its absolute form.
+The same form is used in genitive construction as shown in (3).
+
+3.  mana    dhagaa
+    house   stone
+    'stone house'
+    
+There are two types of genitive possessions: alienable and inalienable possesions. Alienable possesions do not have fixed relationship between the possessor and the possessee while inalienalbe possessions have fixed relationships between the possessor and the possessee. Genitive construction is often referred as possesion construction. Because of this, genitive and possesion words are used interchangeably. But, genitive construction is not always about possession. For instance, (2) doesn't show possession:
 
 2.  mana    murtii
     house   gudge
-    'court/lit.gudge's house'
+    'court'/lit.'gudge's house'
 
 (2) doesn't show possesion; it is shows a type of building where a specific duity is undertaken. 
 
