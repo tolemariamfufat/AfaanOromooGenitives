@@ -97,8 +97,7 @@ My description of Afaan Oromoo possessive genitive and descriptive genitive is b
 Gebregziabher, K. (2012). The alienable-inalienable asymmetry: Evidence from Tigrinya. 
 In Selected Proceedings of the 42nd Annual Conference on African Linguistics (pp. 161-182).
 
-Genitive construction can be classified into two main categories; namely, possessive genitive and descriptive
-genitive constructions. Possessive genitives are further classifed into two main categries; these are alienable possession (ALP)
+Possessive genitives are classifed into two main categries; these are alienable possession (ALP)
 and inalienable possession (IAP). ALP and IAP are mainly differentiated on the bases 
 of their corresponding semantic relationships. IAP forms a fixed semantic relationship between the possessor and the 
 possessee (Gebregziabher, 2012: 161). For example,
@@ -121,9 +120,8 @@ For example,
    'a teacher's house'
     
 As shown in (2), there is no fixed semantic relationship between 'house' and 'teacher' because 'a teacher's house'
-can be interpreted as a house that a teacher bought, built, rented and so on. Some languages like Tigrinya make 
-a grammatical distinction between inalienable and alienable posssesions (Gebregziabher, 2012: 161); while others like Afaan Oromoo
-do not make a grammatical distiction between the two. 
+can be interpreted as a house that a teacher bought, built, rented and so on. Some languages make a grammatical distinction between inalienable and alienable possessons. But some languages do not make a grammatical distinction between inalienable and alienable possessions. For example, Tigrinya makes
+a grammatical distinction between inalienable and alienable posssesions (Gebregziabher, 2012: 161) as shown in (3): 
 
 Tigrinya (Gebregziabher, 2012:162):
 
@@ -138,6 +136,8 @@ Tigrinya (Gebregziabher, 2012:162):
 Tigrinya makes a distinction between IAP and ALP as shown in (3a) is IAP while (3b) is ALP; the two
 types of possessions are encoded via two independent syntactic structures in this languages (Gebregziabher, 2012: 162).
 
+Afaan Oromoo doesn't make a grammatical distiction between inalienable and alienable possessions:
+
 
 (4) a.  mana    Galgaloo
         house   Galgaloo
@@ -147,17 +147,17 @@ types of possessions are encoded via two independent syntactic structures in thi
         child    Galgaloo
         'Galgaloo's child'
 
-As shown in (4a) and (4b), Afaan Oromoo doesn't differentiate between IAP and ALP morphologically; both are expressed in the same way. 
+As shown in (4a) and (4b), Afaan Oromoo doesn't differentiate between IAP and ALP grammatically; both are expressed morophologically in the same way. 
 
-In Afaan Oromoo both IAP and ALP can be expressed syntactically in the same way as shown below:
+In Afaan Oromoo both IAP and ALP can be expressed syntactically alternatively:
 
 (5) a.  Man-ni      kun     kan     Galgaloo    ti
         house-NOM   this    POSS    Galgaloo    BE
-        'This house is Galgaloo's'
+        'This house is Galgaloo's.'
 
 (5) b.  mucaa-n      kun     kan     Galgaloo    ti
         child-NOM    this    POSS    Galgaloo    BE
-        'This child is Galgaloo's'
+        'This child is Galgaloo's.'
 
 
 1. Possessive
@@ -221,7 +221,6 @@ syntactically as shown below:
 3. The Descriptive genitive
 
 
-
 Rosenbach, A. (2006). Descriptive genitives in English: a case study on constructional gradience. English Language & Linguistics, 10(1), 77-118.
  (https://www.cambridge.org/core/journals/english-language-and-linguistics/article/descriptive-genitives-in-english-a-case-study-on-constructional-gradience/7B0AD52F3E002B99300A2EE9E805577B)
 
@@ -233,7 +232,7 @@ Possessive genetives expands nominals into noun phrases. Semantically, possessiv
 reference within the NP. 
 In Afaan Oromoo the head can be separately determined by definite article or by other reference tracking devices:
 1a. -kitaaba Guyyoo
-1b. -Kitaabicha Guyyoo  (*the Johon's book)
+1b. -Kitaabicha Guyyoo  (*the Johon's book) 
 
 2a. -kitaaba namichaa 
 2b. -kitaaba namichaa kana (*this the man's book)
@@ -295,7 +294,7 @@ ARE DESCRIPTIVE GENITIVES SYNTACTIC PHRASES OR COMPOUNDS?
 (a) Coordination test
 
 Rosenbach, A. (2006: 83) gives three criterion to test if descriptive possessors are syntactic or cmpound. 
-First criterion is Coornation test. In Afaan Oromoo, coordination of dependant is common with descriptive genitives. 
+First criterion is Coordnation test. In Afaan Oromoo, coordination of dependant is common with descriptive genitives. 
 9a. foon hoolaa
 9b. foon reettii
 9c. foon hoolaafi reettii
@@ -311,7 +310,7 @@ First criterion is Coornation test. In Afaan Oromoo, coordination of dependant i
 12c. reettiifi hoolaa hormaataa
 
 
-Because compounds do not allow a third element to be inserted between theme, these examples indicte taht descriptive genitives are syntactic phrases 
+Because compounds do not allow a third element to be inserted between theme, these examples indicte that descriptive genitives are syntactic phrases 
 and not compounds. 
 
 (b) Modification of the dependent
@@ -360,12 +359,12 @@ to fully semantically transparent ones (p, 92).
 : girl's school, writers block, spider's web ...etc (p, 93)
 
 In this naming function descriptive genitives are those that most clearly correspond to the term 'classifying genitives' as their basic
-function is type restriction. However, thhis only holds for semantically endocentric cases, where the dependent 
+function is type restriction. However, this only holds for semantically endocentric cases, where the dependent 
 clearly restricts the denotation of the head noun. In these cases the meaning of the head is the meaning of the 
-whole genitive NP, i.e. St Valentine's day designates a certain day, women's undrwea a certain type of underwear
+whole genitive NP, i.e. St Valentine's day designates a certain day, women's undrwear a certain type of underwear
 and smoker's cough a certain typeof cough, while a baby's head is not a type of head but a steak and kidney pudding.
 Similarly in (33d) the meaning of the whole genitive construction is not deducible compositionally from the meaning of the 
-head and the dependent attribute.. Rather, in these cases teh descriptive genitive refers to a complete mess (dog's breakfast) or to a specific type of balcony 
+head and the dependent attribute.. Rather, in these cases the descriptive genitive refers to a complete mess (dog's breakfast) or to a specific type of balcony 
 (widow's walks). While they are not as such transparent, knowledge of the etymology of these idiomatic expressions makes them fully
 compositional in the figurative world, so to speak. For example, the term widow's walks (for porches on the roof)
 goes back to the fact (or rather legend?) that the wives of seafarers used to to climb up there to watch out for the 
@@ -382,7 +381,7 @@ a spring's day or an autumn's day are very questinable (they mark the latter two
 the first two. (p, 93). 
 
 Syntactic processes are by definition productive; it is usually only in the domain of word formation that the notion
-of productivity is evoked at all. As argued above descriptive genitives (in the sense of the calassifying genitive discussed here0
+of productivity is evoked at all. As argued above descriptive genitives (in the sense of the calassifying genitive discussed here)
 can be syntactic phrases, and as such they should also be 'productive'. However, even when perceiving classifying genitives
 as being formed by the rules of word fromation, productivity is usually defined as the ability of a form to coin new
 expressions (p,94). That is, what matters is not how often a particular collection is used, but whether it is possible to coin
@@ -391,7 +390,7 @@ that both 'a spring's day and 'an autumn's day' can be used perfectly well to re
 that for seme reason they don't happen to be particularly frequent ... p, 94. While frequency of use may give us an indication
 as to the degree of lexicalization, it doesn't tell us anything about the productivity of the form/construction. 
 
-Note that, in general, new classifying genitives can be easily formed on the spot wheneve we perceive something as defining a type.
+Note that, in general, new classifying genitives can be easily formed on the spot whenever we perceive something as defining a type.
 Classifying genitives are fully productive (p, 94). 
 
 
@@ -455,21 +454,21 @@ images or ideas. Metaphorical genitives are productive in the same way that dete
 
 So far, we have only looked at the specificity of the dependent as a typical property distingushing determiner and 
 descriptive genitives. Under this view, the depedent in a descriptive genitive is unspecific in its naming function and 
-in tis comparing function, while it is specific in a determiner genitiv. However, specificity alone cannot account
+in its comparing function, while it is specific in a determiner genitive. However, specificity alone cannot account
 for all the referential properties genitive-marked dependents can have in English (Afaan Oromoo???). In this section I argue that it is important 
 to distinguis,, within the calass of nonspecific dependents, nonreferring dependents from referring (generic) dependents.
 
 Nonspecificity and genericity are often treated alike, but they are different notions with different properties. While specificity
 is a notion used to capture the referential properties of indefinite NPs, 'generic noun phrases are those in which 
-reference is made to an entire class' (C.Lyons, 1999:179). While specificity is a term usually only applied to indefinet
+reference is made to an entire class' (C.Lyons, 1999:179). While specificity is a term usually only applied to indefinte
 NPs, generic NPs can also be expressed by definite NPs (The lion is a dangerous animal). Genericity is a concept that 
 can apply to both sentences and NPs. On the NP level, generic NPs have been considered as 'kind-referring' NPs by Krifka et al. (19995), 
 as opposed to 'object-referring' NPs, which denote a specific object/individual. A crucial difference between generic
-and nonspecific entities then is taht generics refer (to kinds), while nongeneric, nonspecific NPs don not refer at all.
+and nonspecific entities then is that generics refer (to kinds), while nongeneric, nonspecific NPs don not refer at all.
 
 Now, how does all this relate to desriptive genitives? In (41) the dependent (a testator) is clearly not referring to 
 a specific testator. However, it does refer, as is evident from the susequent anaphor his which refers back to the 
-dependent(a testator). In contrast to determiner genitives this is not reference to a specific testator but referne to the 
+dependent(a testator). In contrast to determiner genitives this is not reference to a specific testator but reference to the 
 kind 'testaror', i.e. the dependent is 'kind-referring', i.e. generic.
 
 (41) Under family-provision legislation a testator's moral responsibility to provide for his dependents had become 
@@ -480,7 +479,7 @@ In contrast to metaphorical genitives, these genitives are not used to compare a
 that in the examples in (42) there is a specific refernt in the context that matches the generic possessor, a woman
 in (42a) 'a thin woman's apology', and a man in (42b) 'a man's horrible, humiliting sobbing'. In all these cases the 
 possessor abstracts away from the specific individuals, transcending them as examplars of a kind. Sometimes, this affinity
-of a specific referent in the context to its kind is even makde explicit, in a kind of mocking way, as in (43), or 
+of a specific referent in the context to its kind is even made explicit, in a kind of mocking way, as in (43), or 
 or as describing the kind first and then finally identifying the matching (and co-present) referent, as in (44). 
 
 (43). So. What you're about, MrC.Shepherd. You here as the hopeful answer to a maiden's prayers? ..,
@@ -496,7 +495,7 @@ of the contexts ... That is, the overall context is generic and it is because of
 the genitive therein is generic, too. However, withn this generic context the abstract refernts get individualized. 
 
 Note that we can also find generic dependents which are definite, while it was typical of the metaphorical genitives
-discussed in in secion 3.2. to have indefinete dependents. In fact, teh definite singual is often regarded as teh 
+discussed in in secion 3.2. to have indefinete dependents. In fact, the definite singular is often regarded as teh 
 prototypical generic expression ...
 
 In the examples in (46), 'the bad child's impulse to cry, the oversleepers's panicked sense of having fallen behind, 
