@@ -274,7 +274,7 @@ to the denotation of the head noun is positioned adjacent to the head, while any
 of the noun phrase will be most distantly located away from the head noun (p,81). 
 
 5a. hoolaa foonii
-5b. *hoolaa foonichaa
+5b. *hoolaa foon sanaa
 5c. hoolaa namicha sanaa 
 5d. hoolaa adii namicha sanaa
 (5a) shows word order of descriptive genitives. As shown in (5b) descriptive genitives prohibit the expansion, prefer
@@ -401,7 +401,7 @@ one.
 
 17. akka dhala sooressaa (meeshaa mi'aawaa bituu jaalata)
 18. hamma baallee shimbirroo hin'ulfaatu
-19. 
+
 
 In (37a) the weight fo a swan's feather is used to describe the (light) weight of a person. In (37b) the well-known sound
 of a a dentist's drill characterizes the (ghastly) sound of a person's voice. The strength/intensity of the wind 
@@ -508,6 +508,11 @@ descriptive genitives (with respect to their nonspecific dependent). Like metaph
 as productive as determiner genitives, as every individualized referent can be conceived of as a representaitve of its kind.
 (p,99). 
 
+Examples of generic descriptive genitives:
+
+20. ilma namaa 'human being'
+21. dhala leencaa 'lion's cub'
+22. dhala sooreessaa 'rich's child'
 
 
 
